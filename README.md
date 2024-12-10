@@ -28,4 +28,9 @@ The pipeline follows these steps:
 
 **3. Transform Data:** Reads the processed data from EC2 server, applies transformations, and prepares it for loading into Amazon S3 bucket.
 
+# Final Pipeline
+
+![image](https://github.com/user-attachments/assets/6c9abb7b-3ef2-4867-abe5-fd69b5fe8317)
+
+
 
