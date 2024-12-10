@@ -13,3 +13,7 @@
 5. Then activate the virtual environment and installed some packages like pandas, s3fs, apache-airflow
 
 6. Entered the command airflow standalone to get the username and password for Airflow
+
+![image](https://github.com/user-attachments/assets/2bbed391-c77c-4344-8772-d80596f013c2)
+
+
