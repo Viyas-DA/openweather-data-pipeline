@@ -1,0 +1,4 @@
+Host Weather-API-Airflow
+    HostName 54.234.78.245
+    User ubuntu
+    IdentityFile C:\Users\viyas\Downloads\Weather-API-Airflow-Keypair-yml.pem
